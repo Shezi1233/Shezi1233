@@ -1,37 +1,75 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<!-- ===================================================== -->
+<!--                 MALIK SHAHZAD                         -->
+<!--          GitHub Profile README                       -->
+<!-- ===================================================== -->
 
-###
+<h1 align="center">
+  👋 Hey, I'm Malik Shahzad
+</h1>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<h3 align="center">
+  🚀 Full-Stack Developer • 🤖 AI Agents • 🧠 RAG • ⚡ AI Automation
+</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Creating+Intelligent+Agents+%F0%9F%A7%A0;Full-Stack+Web+Development+%F0%9F%92%BB;RAG+%7C+MCP+%7C+AI+Automation+%E2%9A%A1;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
+</p>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shezi1233&label=Profile%20Views&color=00C7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Shezi1233?label=Followers&style=for-the-badge&color=blue" />
+</p>
 
-###
+---
+
+# 🧑‍💻 About Me
+
+Hey! I'm **Malik Shahzad** 👋
+
+I'm a **Full-Stack Developer** who enjoys building things at the intersection
+of **software engineering 🤝 artificial intelligence 🤝 automation**.
+
+I started with modern web development and gradually moved deeper into
+backend systems, AI-powered applications, RAG systems, and eventually
+**AI Agents and agentic automation**.
+
+Today, I'm interested in one big question:
+
+> 🧠 **What happens when software doesn't just respond... but can actually think, use tools, and get things done?**
+
+That's what I'm exploring through my work on **AI Agents, automation systems,
+RAG applications, MCP integrations, and full-stack AI products.**
+
+I work primarily with:
+
+- ⚛️ **React / Next.js**
+- 🟦 **TypeScript / JavaScript**
+- 🎨 **Tailwind CSS**
+- 🐍 **Python**
+- ⚡ **FastAPI**
+- 🐘 **PostgreSQL / Neon**
+- 🧠 **RAG & AI Applications**
+- 🤖 **AI Agents & Automation**
+- 🔌 **MCP & Tool Integrations**
+- 💻 **Claude Code & AI-assisted Development**
+
+---
+
+# 🤖 Welcome to My AI Lab
+
+```text
+
+
+                    ┌──────────────────────────┐
+                    │      🧠 AI AGENTS        │
+                    │                          │
+                    │   Think → Plan → Act     │
+                    └────────────┬─────────────┘
+                                 │
+                 ┌───────────────┼───────────────┐
+                 ▼               ▼               ▼
+             🔌 TOOLS         🧠 RAG          ⚙️ AUTOMATION
+                 │               │               │
+                 └───────────────┼───────────────┘
+                                 ▼
+                     🚀 REAL-WORLD PRODUCTS
